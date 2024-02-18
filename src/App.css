@@ -1,0 +1,49 @@
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+.hero-bg{
+  background: url("https://img.freepik.com/free-photo/top-view-statistics-presentation-with-arrow_23-2149023752.jpg?w=1380&t=st=1707934195~exp=1707934795~hmac=a932af95afbe9b5f37b198f975bee9d5c4755db4025ab398e48498c1c5fde880");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.hero-bg2{
+  background: url("https://img.freepik.com/free-photo/top-view-statistics-presentation-with-arrow_23-2149023750.jpg?w=1380&t=st=1707934280~exp=1707934880~hmac=c1a9dcec552f3cc00910be96723da011d0a3977488ffa91022886a325c0dd6b8");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.hero-bg3{
+  background: url("https://img.freepik.com/free-photo/top-view-statistics-presentation-with-arrow_23-2149023748.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
